@@ -1,6 +1,6 @@
 
 <!doctype html>
-<html lang="en">
+<html lang="ru">
     <head>
         <title> iQs Solution - Персональная страница</title>
         <meta charset="utf-8">
@@ -26,7 +26,7 @@
         <link rel="stylesheet" href="/assets/css/responsive.css" type="text/css"/>
         <link rel="stylesheet" href="/assets/css/colors/purple.css" type="text/css"/>
     </head>
-    <body class="dark-vertion black-bg">
+    <body class="dark-vertion black-bg" style="overflow-x: hidden;">
 
         <div class="section-loader">
             <div class="loader">
@@ -837,7 +837,7 @@
             
             if (document.readyState === "complete") { 
                 sessionStorage.setItem('loading', 'yes');
-                $('body').attr('style', 'overflow: hidden;');
+                $('body').removeAttr('style');
             }
             
             if (!sessionStorage.getItem("loading")) {
