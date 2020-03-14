@@ -1392,6 +1392,7 @@ h6 {
 .mh-header .navbar-nav li a.nav-link {
     padding-left: 0;
     padding-right: 0;
+    font-family: 'Play', sans-serif;
 }
 
 .mh-header .navbar-nav li a:hover {
