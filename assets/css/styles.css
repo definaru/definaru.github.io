@@ -292,6 +292,11 @@ a:focus {
     color: #fff;
     border: 1px solid #100e17;
 }
+.btn.btn-fill:hover {
+    background: rgba(240,181,25,1);
+    color: #100e17;
+    border: 1px solid #c59518;
+}
 
 .btn.left-icon .icon {
     margin-right: 15px;
@@ -1550,6 +1555,9 @@ h6 {
     padding: 0;
     margin-right: 0;
     border-radius: 50%;
+}
+.mh-home .mh-header-info .social-icon li a:hover {
+    color: #c59518;
 }
 
 .mh-home .hero-img {
@@ -3723,4 +3731,23 @@ h6 {
     min-height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.fa-facebook:before {
+    background: linear-gradient(153deg, rgba(209,59,123,1) 0%, rgba(240,181,25,1) 97%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial;
+}
+.fa-github:before {
+    background: linear-gradient(153deg, rgba(209,59,123,1) 0%, rgba(240,181,25,1) 97%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial;
+}
+.fa-dribbble:before {
+    background: linear-gradient(153deg, rgba(209,59,123,1) 0%, rgba(240,181,25,1) 97%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: initial;
 }
