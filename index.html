@@ -4,10 +4,13 @@
     <head>
         <title> iQs Solution - Персональная страница</title>
         <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="description" content="Maha Personal cv/resume template for professional and personal website." />
-        <meta name="keywords" content="creative, cv, designer,  online cv, online resume, powerful portfolio, professional, professional resume, responsive, resume, vcard " />
-        <meta name="developer" content="Md. Siful Islam">
+        <meta name="robots" content="index, follow">
+        <meta name="author" content="Inc. Defina"/>
+        <meta name="developer" content="iQs Solution">
+        <meta name="keywords" content="creative, designer,  online, resume, portfolio, professional, responsive" />
+        <meta name="description" content="Персональная страничка iQs Solution для клиентов и работодателей" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         
         <link rel="shortcut icon" href="assets/images/favicon.ico">
@@ -15,15 +18,13 @@
         <link rel="shortcut icon" sizes="72x72" href="assets/images/apple-icon-72x72.png">
         <link rel="shortcut icon" sizes="114x114" href="assets/images/apple-icon-114x114.png">
 
-        <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto">
-        <link rel="stylesheet" href="https://glyphsearch.com/bower_components/font-awesome/css/all.min.css">
-        <link rel="stylesheet" href="/assets/plugins/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/assets/plugins/css/animate.css">
-        <link rel="stylesheet" href="/assets/plugins/css/owl.css">
-        <link rel="stylesheet" href="/assets/plugins/css/jquery.fancybox.min.css">
-        <link rel="stylesheet" href="/assets/css/styles.css">
-        <link rel="stylesheet" href="/assets/css/responsive.css">
-        <link rel="alternate stylesheet" href="/assets/css/colors/purple.css" title="purple">
+        <link rel="stylesheet" href="/assets/plugins/css/bootstrap.min.css" type="text/css"/>
+        <link rel="stylesheet" href="/assets/plugins/css/animate.css" type="text/css"/>
+        <link rel="stylesheet" href="/assets/plugins/css/owl.css" type="text/css"/>
+        <link rel="stylesheet" href="/assets/plugins/css/jquery.fancybox.min.css" type="text/css"/>
+        <link rel="stylesheet" href="/assets/css/styles.css" type="text/css"/>
+        <link rel="stylesheet" href="/assets/css/responsive.css" type="text/css"/>
+        <link rel="stylesheet" href="/assets/css/colors/purple.css" type="text/css"/>
     </head>
     <body class="dark-vertion black-bg">
 
@@ -831,6 +832,21 @@
     <script src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;key=AIzaSyCRP2E3BhaVKYs7BvNytBNumU0MBmjhhxc"></script>
     <script src="/assets/js/map-init.js"></script>
     <script src="/assets/js/custom-scripts.js"></script>
+    <script>
+        $(window).load(function() {
+            
+            if (document.readyState === "complete") { 
+                sessionStorage.setItem('loading', 'yes');
+                $('body').attr('style', 'overflow: hidden;');
+            }
+            
+            if (!sessionStorage.getItem("loading")) {
+                // $('.main-title').append('<br/> '+ sessionStorage.getItem("loading"));
+            } else {
+                //$('#preloader').html('');
+            }
+        });
+    </script>
     
 </body>
 </html>

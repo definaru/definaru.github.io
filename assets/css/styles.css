@@ -1,3 +1,11 @@
+@charset "utf-8";
+@import  "https://glyphsearch.com/bower_components/font-awesome/css/all.min.css" screen; 
+@import  "https://glyphsearch.com/bower_components/material-design-icons/iconfont/material-icons.css" screen; 
+@import  "https://fonts.googleapis.com/css?family=Roboto" screen; 
+@import url('https://fonts.googleapis.com/css?family=Play:400,700&display=swap&subset=cyrillic,cyrillic-ext,greek,latin-ext,vietnamese');
+
+/* font-family: 'Play', sans-serif; */
+
 * {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -26,12 +34,7 @@ body {
     opacity: 0.9;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
     font-family: "roboto", sans-serif;
 }
 
