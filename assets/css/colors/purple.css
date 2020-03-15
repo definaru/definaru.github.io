@@ -111,7 +111,8 @@
 }
 
 .mh-footer-address .mh-address-footer-item .each-icon .fa {
-  border-color: #E91E63;
+    border-color: #E91E63;
+    color: #E91E63;
 }
 
 .old .navbar-collapse {

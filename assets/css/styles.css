@@ -3,6 +3,7 @@
 @import  "https://glyphsearch.com/bower_components/material-design-icons/iconfont/material-icons.css" screen; 
 @import  "https://fonts.googleapis.com/css?family=Roboto" screen; 
 @import url('https://fonts.googleapis.com/css?family=Play:400,700&display=swap&subset=cyrillic,cyrillic-ext,greek,latin-ext,vietnamese');
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+128+Text&display=swap');
 
 /* font-family: 'Play', sans-serif; */
 
@@ -1060,6 +1061,10 @@ h6 {
 
 .dark-vertion a {
     color: #fff;
+    font-family: 'Libre Barcode 128 Text', cursive;
+}
+.dark-vertion a:hover {
+    color: #e7b002;
 }
 
 .dark-vertion h2 {
@@ -2289,6 +2294,7 @@ h6 {
 
 .mh-footer-address .mh-address-footer-item h4 {
     margin-bottom: 20px;
+    font-family: 'Play', sans-serif;
 }
 
 .mh-footer-address .mh-address-footer-item address {
@@ -2301,13 +2307,12 @@ h6 {
 
 .mh-footer-address .mh-address-footer-item .each-icon .fa {
     text-align: center;
-    width: 100px;
-    height: 100px;
-    border: 1px solid;
+    width: 99px;
+    height: 99px;
+    border: 4px solid;
     border-radius: 50%;
     line-height: 100px;
-    font-size: 20px;
-    border-color: #0bceaf;
+    font-size: 43px;
 }
 
 .mh-page-title {
