@@ -3744,25 +3744,6 @@ h6 {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-.fa-facebook:before {
-    background: linear-gradient(153deg, rgba(209,59,123,1) 0%, rgba(240,181,25,1) 97%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    display: initial;
-}
-.fa-github:before {
-    background: linear-gradient(153deg, rgba(209,59,123,1) 0%, rgba(240,181,25,1) 97%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    display: initial;
-}
-.fa-dribbble:before {
-    background: linear-gradient(153deg, rgba(209,59,123,1) 0%, rgba(240,181,25,1) 97%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    display: initial;
-}
 .navbar-brand {
     font-size: 2.5rem;
     font-family: 'Libre Barcode 128 Text', cursive;
