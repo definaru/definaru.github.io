@@ -1061,7 +1061,6 @@ h6 {
 
 .dark-vertion a {
     color: #fff;
-    font-family: 'Libre Barcode 128 Text', cursive;
 }
 .dark-vertion a:hover {
     color: #e7b002;
@@ -3766,4 +3765,5 @@ h6 {
 }
 .navbar-brand {
     font-size: 2.5rem;
+    font-family: 'Libre Barcode 128 Text', cursive;
 }
