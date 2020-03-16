@@ -9,12 +9,20 @@
 ![](https://img.shields.io/bower/v/editor.md.svg)
 
 Я являюсь разработчиком **CMS Defina**
+<p align="left">
+    <a href="https://defina.ru/app/cms_defina" target="_blank">
+        <img src="https://definaru.github.io/assets/images/300.png" width="300" alt="Ink.Defina" />
+    </a>
+</p>
 
-![https://defina.ru/app/cms_defina](https://definaru.github.io/assets/images/300.png)
---
+***
+
 Если хотите принять участие, [пишите](https://github.com/definaru/definaru.github.io/issues).
 #### Так же буду рад моральной поддержке и донатам
-![https://paypal.me/rayvaigmi](https://www.paypalobjects.com/images/shared/paypal-logo-129x32.svg)
+
+<a href="https://paypal.me/rayvaigmi" target="_blank">
+    <img src="https://www.paypalobjects.com/images/shared/paypal-logo-129x32.svg" width="100" alt="Ink.Defina" />
+</a>
 
 ...................
 
