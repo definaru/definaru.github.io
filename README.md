@@ -17,9 +17,8 @@
 
 ***
 
--Если хотите принять участие, [пишите](https://github.com/definaru/definaru.github.io/issues);
-
--Если вы программист и у вас есть вопросы, [пишите - отвечу](https://qna.habr.com/user/Isolution666);
+- Если хотите принять участие, [пишите](https://github.com/definaru/definaru.github.io/issues);
+- Если вы программист и у вас есть вопросы, [пишите - отвечу](https://qna.habr.com/user/Isolution666);
 
 
 
