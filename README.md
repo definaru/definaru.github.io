@@ -1,4 +1,5 @@
-# iQs Solution [My page]
+# iQs Solution 
+##### [My page]
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) 
 ![](https://img.shields.io/github/forks/pandao/editor.md.svg) 
@@ -7,13 +8,14 @@
 ![](https://img.shields.io/github/issues/pandao/editor.md.svg) 
 ![](https://img.shields.io/bower/v/editor.md.svg)
 
-Я являюсь разработчиком CMS Defina
+Я являюсь разработчиком **CMS Defina**
 
 ![https://defina.ru/app/cms_defina](https://definaru.github.io/assets/images/300.png)
 --
 Если хотите принять участие, [пишите](https://github.com/definaru/definaru.github.io/issues).
 #### Так же буду рад моральной поддержке и донатам
---
-![https://paypal.me/rayvaigmi](https://definaru.github.io/assets/images/Paypal.svg)
+![https://paypal.me/rayvaigmi](https://www.paypalobjects.com/images/shared/paypal-logo-129x32.svg)
+
+...................
 
 Персональная страничка iQs Solution для клиентов и работодателей - https://definaru.github.io
