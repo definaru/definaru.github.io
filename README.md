@@ -38,7 +38,7 @@ Comming Soon:
 `$ npm install cms_defina_prodject`
 
 <a href="https://defina.ru" target="_blank">
-    <img src="https://definaru.github.io/assets/images/button11.png" width="80" alt="Ink.Defina" />
+    <img src="https://definaru.github.io/assets/images/button11.png" width="200" alt="Ink.Defina" />
 </a>
 
 
