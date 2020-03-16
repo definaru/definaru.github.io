@@ -18,6 +18,7 @@
 ***
 
 Если хотите принять участие, [пишите](https://github.com/definaru/definaru.github.io/issues).
+Если вы программист и у вас есть вопросы, [пишите - отвечу](https://qna.habr.com/user/Isolution666)
 #### Так же буду рад моральной поддержке и донатам
 
 <a href="https://paypal.me/rayvaigmi" target="_blank">
@@ -27,3 +28,7 @@
 ...................
 
 Персональная страничка iQs Solution для клиентов и работодателей - https://definaru.github.io
+
+Comming Soon:
+
+`$ npm install cms_defina_prodject`
