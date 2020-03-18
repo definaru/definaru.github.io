@@ -92,6 +92,9 @@ E-mail: info@defina.ru
     .skill_text {
         font-size: 16px;font-family: 'Play', sans-serif;
     }
+    .mh-experince .mh-education-deatils .mh-education-item h4 a {
+        font-size: 16px;
+    }
 }
 
 @media screen and (min-width:768px) and (max-width:991px) {
@@ -119,9 +122,6 @@ E-mail: info@defina.ru
     }
     .skill_text {
         font-size: 30px;font-family: 'Play', sans-serif;
-    }
-    .mh-experince .mh-education-deatils .mh-education-item h4 a {
-        font-size: 16px;
     }
 }
 
