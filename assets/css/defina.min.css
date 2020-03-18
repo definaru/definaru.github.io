@@ -7,6 +7,9 @@ URL LICENSE: https://github.com/DefinaCorporation/Defina/blob/master/LICENSE
 WebSite: https://defina.ru
 E-mail: info@defina.ru
 */
+
+
+
 .brblock {display:block;width:100%;clear:both;padding:5px 0;}
 .cp {cursor:pointer;}
 
@@ -149,6 +152,7 @@ E-mail: info@defina.ru
         font-size: 30px;font-family: 'Play', sans-serif;
     }
 }
+
 @media screen and (min-width: 1200px) {
     .lg-left{text-align: left;}
     .lg-right{text-align: right;}
