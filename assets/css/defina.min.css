@@ -65,8 +65,8 @@ E-mail: info@defina.ru
     H3{font-size:20px;}
     H4{font-size:18px;}
     H5{font-size:16px;}
-    H6{font-size:14px;}
-    p {font-size:10px;}
+    H6{font-size:15px;}
+    p {font-size:13px;}
     .lead {
         font-size: 14px;
         font-weight: 300;
@@ -116,6 +116,9 @@ E-mail: info@defina.ru
     }
     .skill_text {
         font-size: 30px;font-family: 'Play', sans-serif;
+    }
+    .mh-experince .mh-education-deatils .mh-education-item h4 a {
+        font-size: 16px;
     }
 }
 
