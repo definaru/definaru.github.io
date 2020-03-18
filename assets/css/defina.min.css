@@ -95,6 +95,7 @@ E-mail: info@defina.ru
     .mh-experince .mh-education-deatils .mh-education-item h4 a {
         font-size: 16px;
     }
+    .pr-skill-name {font-size: 11px;}
 }
 
 @media screen and (min-width:768px) and (max-width:991px) {
